@@ -137,6 +137,22 @@ Nada por aqui ainda, conhece um bom tutorial? Contribua para a lista.
 
  - [BEM](https://en.bem.info/)
  - [ITCSS](https://itcss.io/)
+ - [Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/)
+
+<sub>[⇧ voltar](#indice)</sub>
+
+
+## Guidelines
+
+> Como seguir um padrão no CSS ?
+
+ - [Airbnb](https://github.com/airbnb/css)
+ - [Cssguidelines](https://cssguidelin.es/)
+ - [CSS-TRICKS](https://css-tricks.com/css-style-guides/)
+ - [Wordpress](https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/)
+ - [Google](https://google.github.io/styleguide/htmlcssguide.html)
+ - [Sass Guideline](https://sass-guidelin.es/pt/)
+ - [Codeguide](http://codeguide.co/)
 
 <sub>[⇧ voltar](#indice)</sub>
 
